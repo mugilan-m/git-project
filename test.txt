@@ -1,0 +1,5 @@
+name:mugilan
+roll number:19csr111
+role:software developer
+company:ford 
+Skill:reactjs,nodejs,mongodb,mysql
